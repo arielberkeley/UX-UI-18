@@ -189,7 +189,7 @@ span{
 .about-img{
     height: 100vh;
     width: 100%;
-    background-image: url("../images/AboutMe.jpg");
+    background-image: url('../images/AboutMe.jpg');
     background-position-x: left;
     position: relative;
     background-size: contain;
@@ -282,10 +282,10 @@ span{
     align-items: center;
     grid-gap: 3rem;
 }
-.contact-img img{
+.contact-img{
     height: 100vh;
     width: 100%;
-    background-image: url("../images/Contactme.jpg");
+    background-image: url('../images/Contactme.jpg');
     background-position-x: right;
     position: relative;
     background-size: contain;
